@@ -7,7 +7,7 @@
     <contextParameter comment="" name="NumRows" prompt="NumRows?" promptNeeded="false" type="id_Integer" value="10000000"/>
   </context>
   <context confirmationNeeded="false" name="Medium">
-    <contextParameter comment="" name="NumRows" prompt="NumRows?" promptNeeded="false" type="id_Integer" value="1000000"/>
+    <contextParameter comment="" name="NumRows" prompt="NumRows?" promptNeeded="false" type="id_Integer" value="1000"/>
   </context>
   <context confirmationNeeded="false" name="Small">
     <contextParameter comment="" name="NumRows" prompt="NumRows?" promptNeeded="false" type="id_Integer" value="1000"/>
